@@ -1,0 +1,9 @@
+{
+  "name": "eslint-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "eslint": "^8"
+  }
+}
